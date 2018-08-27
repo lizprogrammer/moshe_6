@@ -1,0 +1,9 @@
+/home/ubuntu/workspace/Section6/bin/Debug/netcoreapp2.0/Section6.deps.json
+/home/ubuntu/workspace/Section6/bin/Debug/netcoreapp2.0/Section6.runtimeconfig.json
+/home/ubuntu/workspace/Section6/bin/Debug/netcoreapp2.0/Section6.runtimeconfig.dev.json
+/home/ubuntu/workspace/Section6/obj/Debug/netcoreapp2.0/Section6.csproj.CoreCompileInputs.cache
+/home/ubuntu/workspace/Section6/obj/Debug/netcoreapp2.0/Section6.AssemblyInfo.cs
+/home/ubuntu/workspace/Section6/bin/Debug/netcoreapp2.0/Section6.dll
+/home/ubuntu/workspace/Section6/bin/Debug/netcoreapp2.0/Section6.pdb
+/home/ubuntu/workspace/Section6/obj/Debug/netcoreapp2.0/Section6.dll
+/home/ubuntu/workspace/Section6/obj/Debug/netcoreapp2.0/Section6.pdb
